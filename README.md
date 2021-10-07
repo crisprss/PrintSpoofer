@@ -1,5 +1,10 @@
 # PrintSpoofer-ReflectiveDLL
 
-Reflective DLL version. It could be very easy to spawn a new SYSTEM beacon in CS
+## Usage
+In Cobalt Strike Beacon:
 
-![](img/cs.png)
+elevate PrintSpoofer LISTENER_NAME
+
+
+
+![](img/images.png)
